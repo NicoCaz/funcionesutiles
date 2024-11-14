@@ -196,10 +196,6 @@ async function obtenerDatos() {
 
 ## Consideraciones de Implementación
 
-### Dependencias Requeridas
-```html
-<script src="https://cdnjs.cloudflare.com/ajax/libs/x2js/1.2.0/xml2json.min.js"></script>
-```
 
 ### Orden de Carga
 1. Cargar dependencias externas
